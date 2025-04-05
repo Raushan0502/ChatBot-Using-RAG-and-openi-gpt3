@@ -1,0 +1,1 @@
+This is the first rag application where user can ask news related question and get required ans.
